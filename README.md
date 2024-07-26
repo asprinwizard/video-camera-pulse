@@ -1,3 +1,3 @@
-# video-camera-pulse
+# Video Camera Pulse
 
 TODO
